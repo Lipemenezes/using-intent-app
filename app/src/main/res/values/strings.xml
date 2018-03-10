@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="btn_go_to_second_activity">Go to next activity</string>
+    <string name="btn_destroy_second_activity">Destroy me! :(</string>
+    <string name="hint_username">Type your username</string>
+    <string name="hint_password">Type your password</string>
+</resources>
